@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository.
 ```sh
-   git clone https://github.com/yourusername/Travel-Advisor.git
+   git clone https://github.com/up2002/travel-website.git
 ```
 2. Install dependencies.
 ```
